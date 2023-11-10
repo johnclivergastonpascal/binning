@@ -1,7 +1,8 @@
 {
     "bins": [
         {
-            "nameBin": "LINKEDIN PREMIUM",
+            "title": "LINKEDIN PREMIUM",
+            "colorTitle":"",
             "bin": "546759200340xxxx",
             "fecha": "05|2025",
             "cvv": "000",

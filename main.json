@@ -2,12 +2,19 @@
     "bins": [
         {
             "title": "LINKEDIN PREMIUM",
-            "colorTitle":"0000FF",
+            "colorTitle":"2E86C1",
             "bin": "546759200340xxxx",
-            "fecha": "05|2025",
+            "fecha": "05/25",
             "cvv": "000",
-            "ip": "MEXICO 🇲🇽",
-            "zip": 43000
+            "ip": "MEXICO 🇲🇽"
+        },
+        {
+            "title":"RAPPI HBO 4 Months",
+            "colorTitle":"FF5C4B",
+            "bin":"475776510086xxxx",
+            "fecha":"11/25",
+            "cvv":"RND",
+            "ip":"OWN"
         }
     ]
 }

@@ -15,6 +15,10 @@
         {
             "name":"aliexpress",
             "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAkKAgU6-Sz98_bgQpX_hKfrbu_3ReUoj9nZZL3Sl0OvAZGin-dF4wnCuED-er41luNw&usqp=CAU"
+        },
+        {
+            "name":"DUOLINGO",
+            "img":"https://play-lh.googleusercontent.com/YhLarJzcGXMVbd_QTpeiYp6Y9PEM-ZYGq-gDesjf-z4__ddN6TT6v5NWYq7E19hMNvkc"
         }
     ]
 }

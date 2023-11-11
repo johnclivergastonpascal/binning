@@ -7,6 +7,14 @@
         {
             "name": "RAPPI HBO MAX",
             "img": "https://t2.tudocdn.net/611366?w=1200&h=1200"
+        },
+        {
+            "name":"amazon prime video",
+            "img":"https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=es_VE"
+        },
+        {
+            "name":"aliexpress",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAkKAgU6-Sz98_bgQpX_hKfrbu_3ReUoj9nZZL3Sl0OvAZGin-dF4wnCuED-er41luNw&usqp=CAU"
         }
     ]
 }
